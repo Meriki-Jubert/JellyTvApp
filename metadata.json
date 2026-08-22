@@ -1,0 +1,6 @@
+{
+  "name": "Home Station",
+  "description": "Self-hosted offline TV channel front-end for Jellyfin with linear broadcast scheduling and native video player",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
